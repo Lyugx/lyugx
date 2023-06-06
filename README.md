@@ -1,4 +1,5 @@
 Hey there I'm Gaoxiang Lyu👋
+![alt text](http://url/to/img.png)
 
 Interested in learning and exploring more about Frontend Development, Web Development, and FullStack development.
 
