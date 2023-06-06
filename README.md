@@ -1,5 +1,7 @@
 Hey there I'm Gaoxiang Lyu👋
 
+Interested in learning and exploring more about Frontend Development, Web Development, and FullStack development.
+
 👨🏻‍💻 About Me:
 
 🌱 Enthusiast in Frontend Development.
