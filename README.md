@@ -2,15 +2,17 @@ Hi, Gaoxiang Here 👋 Welcome!
 
 Interested in learning and exploring more about Frontend Development, Web Development, and FullStack development.
 
+🔭 I’m currently looking for new opportunities
+
 👨🏻‍💻 About Me:
 
 🧗‍♀️ I’m currently learning everything 🤓
-🥅 2023 Goals: Contribute more to Open Source projects
-🏔️ Interests - Python, Javascript, Gym, Basketball
-😄 Pronouns: He/Him
-⚡ Fun fact: Gaoxiang is a Chinese name meaning 'flying high'
 
-Always learning, and always open to opportunities.
+🥅 2023 Goals: Contribute more to Open Source projects
+
+🏔️ Interests - Javascript, CSS, Fitness, Basketball, Music
+
+⚡ Fun fact: Gaoxiang is a Chinese name meaning 'flying high'
 
 📫 How to reach me: gaoxianglyu@gmail.com
 
