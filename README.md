@@ -4,12 +4,8 @@ Interested in learning and exploring more about Frontend Development, Web Develo
 
 👨🏻‍💻 About Me:
 
-🌱 Enthusiast in Frontend Development.
-
-👩‍💻 Currently: Business Analyst@Amazon Transfer Pricing Team
-
-🧗‍♀️ I’m currently working on - Finance modeling application, Sports Application(I'm a BIG fan of 🏀)
-
+🧗‍♀️ I’m currently learning everything 🤓
+🥅 2023 Goals: Contribute more to Open Source projects
 🏔️ Interests - Python, Javascript, Gym, Basketball
 😄 Pronouns: He/Him
 ⚡ Fun fact: Gaoxiang is a Chinese name meaning 'flying high'
